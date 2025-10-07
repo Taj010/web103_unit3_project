@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "location_id": 1,
+    "title": "Rooftop confession karaoke night",
+    "date": "2024-10-15",
+    "time": "8:00 PM",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 2,
+    "location_id": 1,
+    "title": "Midnight ramen cook-off",
+    "date": "2024-12-20",
+    "time": "11:30 PM",
+    "image": "https://images.unsplash.com/photo-1569718212165-3a8278d5f624?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 3,
+    "location_id": 1,
+    "title": "K-Drama OST listening lounge",
+    "date": "2025-11-02",
+    "time": "7:30 PM",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 4,
+    "location_id": 1,
+    "title": "\"City Lights\" photo contest",
+    "date": "2025-11-10",
+    "time": "6:00 PM",
+    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 5,
+    "location_id": 1,
+    "title": "Rewrite-the-ending fan fiction workshop",
+    "date": "2025-11-18",
+    "time": "5:00 PM",
+    "image": "https://images.unsplash.com/photo-1481627834876-b7833e8f5570?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 6,
+    "location_id": 1,
+    "title": "Rooftop drama reenactment night",
+    "date": "2025-11-25",
+    "time": "8:30 PM",
+    "image": "https://images.unsplash.com/photo-1516450360452-9312f5e86fc7?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 7,
+    "location_id": 2,
+    "title": "Couple's picnic cosplay meetup",
+    "date": "2024-11-12",
+    "time": "2:00 PM",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 8,
+    "location_id": 2,
+    "title": "Umbrella-sharing photo challenge",
+    "date": "2024-12-19",
+    "time": "4:00 PM",
+    "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 9,
+    "location_id": 2,
+    "title": "Flashback film screenings",
+    "date": "2025-10-26",
+    "time": "6:30 PM",
+    "image": "https://images.unsplash.com/photo-1489599808420-5b1b2a0b3b3b?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 10,
+    "location_id": 2,
+    "title": "\"Lost Letter\" scavenger hunt",
+    "date": "2025-11-03",
+    "time": "3:00 PM",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 11,
+    "location_id": 2,
+    "title": "Sketch & sip riverside art session",
+    "date": "2025-11-09",
+    "time": "5:00 PM",
+    "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 12,
+    "location_id": 2,
+    "title": "Anonymous admirer message board",
+    "date": "2025-11-16",
+    "time": "All Day",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 13,
+    "location_id": 3,
+    "title": "Uniform-themed dance party",
+    "date": "2025-10-14",
+    "time": "7:00 PM",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 14,
+    "location_id": 3,
+    "title": "Secret admirer note exchange",
+    "date": "2025-10-21",
+    "time": "12:00 PM",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 15,
+    "location_id": 3,
+    "title": "Drama trivia showdown",
+    "date": "2025-10-28",
+    "time": "6:00 PM",
+    "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 16,
+    "location_id": 3,
+    "title": "Talent show: \"Sing like the Second Lead\"",
+    "date": "2025-11-06",
+    "time": "7:30 PM",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 17,
+    "location_id": 3,
+    "title": "\"Best Love Triangle\" debate night",
+    "date": "2025-11-13",
+    "time": "8:00 PM",
+    "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 18,
+    "location_id": 3,
+    "title": "K-Drama classroom roleplay",
+    "date": "2025-11-20",
+    "time": "5:30 PM",
+    "image": "https://images.unsplash.com/photo-1571019613454-1cb2f99b2d8b?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 19,
+    "location_id": 4,
+    "title": "Latte art workshops",
+    "date": "2024-12-11",
+    "time": "10:00 AM",
+    "image": "https://images.unsplash.com/photo-1509042239860-f550ce710b93?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 20,
+    "location_id": 4,
+    "title": "K-Drama OST sing-along",
+    "date": "2025-10-18",
+    "time": "6:00 PM",
+    "image": "https://images.unsplash.com/photo-1493225457124-a3eb161ffa5f?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 21,
+    "location_id": 4,
+    "title": "Advice corner: \"Ask the Second Lead\"",
+    "date": "2025-10-25",
+    "time": "1:00 PM",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 22,
+    "location_id": 4,
+    "title": "Community drama script readings",
+    "date": "2025-11-01",
+    "time": "4:00 PM",
+    "image": "https://images.unsplash.com/photo-1489599808420-5b1b2a0b3b3b?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 23,
+    "location_id": 4,
+    "title": "DIY charm bracelet crafting",
+    "date": "2025-11-08",
+    "time": "2:00 PM",
+    "image": "https://images.unsplash.com/photo-1513475382585-d06e58bcb0e0?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 24,
+    "location_id": 4,
+    "title": "Dessert tasting inspired by drama cafés",
+    "date": "2025-11-15",
+    "time": "3:00 PM",
+    "image": "https://images.unsplash.com/photo-1551024506-0bccd828d307?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 25,
+    "location_id": 5,
+    "title": "Mythical creature cosplay parade",
+    "date": "2024-11-13",
+    "time": "5:00 PM",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 26,
+    "location_id": 5,
+    "title": "Anime & K-Drama tarot readings",
+    "date": "2025-10-22",
+    "time": "7:00 PM",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 27,
+    "location_id": 5,
+    "title": "Lantern release ceremony",
+    "date": "2025-10-29",
+    "time": "8:30 PM",
+    "image": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 28,
+    "location_id": 5,
+    "title": "Ghost story circle under the moon",
+    "date": "2025-11-05",
+    "time": "9:00 PM",
+    "image": "https://images.unsplash.com/photo-1449824913935-59a10b8d2000?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 29,
+    "location_id": 5,
+    "title": "Fantasy drama trivia quest",
+    "date": "2025-11-12",
+    "time": "6:30 PM",
+    "image": "https://images.unsplash.com/photo-1511632765486-a01980e01a18?w=600&h=400&fit=crop&crop=center"
+  },
+  {
+    "id": 30,
+    "location_id": 5,
+    "title": "\"Summon the Goblin\" live roleplay",
+    "date": "2025-11-19",
+    "time": "8:00 PM",
+    "image": "https://images.unsplash.com/photo-1578662996442-48f60103fc96?w=600&h=400&fit=crop&crop=center"
+  }
+]

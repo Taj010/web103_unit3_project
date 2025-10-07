@@ -1,0 +1,155 @@
+.events-page {
+  padding: 1.5rem;
+  background: #000;
+  min-height: 100vh;
+  color: #fff;
+}
+
+.events-topbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.page-title {
+  margin-bottom: 1rem;
+  font-size: 2rem;
+}
+
+.btn-home {
+  background: #ffd54f;
+  color: #111;
+  padding: 0.4rem 0.7rem;
+  border-radius: 6px;
+  border: 1px solid #e6b800;
+  text-decoration: none;
+}
+
+.events-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.event-card {
+  background: #fff;
+  border: 1px solid #e6e6e6;
+  border-radius: 8px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+  color: #000;
+}
+
+.event-media img,
+.event-placeholder {
+  width: 100%;
+  height: 150px;
+  object-fit: cover;
+  background: #f3f3f3;
+  display: block;
+}
+
+.event-body {
+  padding: 0 1rem 1rem;
+}
+
+.events-controls {
+  display: flex;
+  gap: 0.5rem;
+  margin: 0 0 1rem 0;
+}
+
+.events-search {
+  flex: 1;
+  padding: 0.5rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background: #111;
+  color: #fff;
+  caret-color: #fff;
+}
+
+.events-filter {
+  padding: 0.5rem 0.6rem;
+  border-radius: 6px;
+  border: 1px solid #444;
+  background: #111;
+  color: #fff;
+}
+
+.event-title {
+  font-size: 1rem;
+  margin: 0.25rem 0 0.25rem 0;
+  color: #000;
+}
+
+.event-meta {
+  margin: 0;
+  color: #000;
+  font-size: 0.9rem;
+}
+
+.event-sep {
+  margin: 0 0.5rem;
+}
+
+.event-location {
+  margin: 0.25rem 0 0 0;
+  font-weight: 600;
+  color: #000;
+}
+
+.event-status {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #666;
+}
+
+/* Past event styling */
+.event-past {
+  opacity: 0.7;
+  position: relative;
+}
+
+.event-past .event-title {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.event-past .event-meta {
+  color: #999;
+}
+
+.event-past .event-location {
+  color: #999;
+}
+
+.event-past-overlay {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: #ff4444;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.event-past .event-status {
+  color: #ff4444;
+  font-weight: 600;
+}
+
+@media (min-width: 1024px) {
+  .event-media img,
+  .event-placeholder {
+    height: 180px;
+  }
+}
+
+

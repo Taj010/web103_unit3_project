@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1,
+    "name": "Seoul Nights Rooftop",
+    "address": "123 Starview Ave",
+    "city": "Seoul",
+    "state": "KR",
+    "zip": "04524",
+    "image": "/rooftop.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Han River Hideaway",
+    "address": "88 Riverside Rd",
+    "city": "Seoul",
+    "state": "KR",
+    "zip": "04000",
+    "image": "/hanriver.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Drama High School",
+    "address": "77 Cherry Blossom Ln",
+    "city": "Seoul",
+    "state": "KR",
+    "zip": "03000",
+    "image": "/highschool.jpg"
+  },
+  {
+    "id": 4,
+    "name": "The Neighborhood Café",
+    "address": "12 Cozy Street",
+    "city": "Seoul",
+    "state": "KR",
+    "zip": "02500",
+    "image": "/cafe.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Spirit Realm Shrine",
+    "address": "9 Moonlit Path",
+    "city": "Seoul",
+    "state": "KR",
+    "zip": "02020",
+    "image": "/shrine.jpg"
+  }
+]

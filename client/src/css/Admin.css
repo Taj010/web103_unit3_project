@@ -1,0 +1,102 @@
+.admin-page {
+  padding: 2rem;
+  background: #000;
+  min-height: 100vh;
+  color: #fff;
+}
+
+.admin-page h1 {
+  font-size: 2.5rem;
+  margin-bottom: 1rem;
+  color: #ffd54f;
+}
+
+.admin-page h2 {
+  font-size: 1.8rem;
+  margin: 2rem 0 1rem 0;
+  color: #1e88e5;
+}
+
+.admin-page h3 {
+  font-size: 1.4rem;
+  margin: 2rem 0 1rem 0;
+  color: #ffd54f;
+}
+
+.table-section {
+  margin-bottom: 3rem;
+}
+
+.data-table {
+  width: 100%;
+  border-collapse: collapse;
+  background: #fff;
+  color: #000;
+  border-radius: 8px;
+  overflow: hidden;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+}
+
+.data-table th {
+  background: #1e88e5;
+  color: #fff;
+  padding: 1rem;
+  text-align: left;
+  font-weight: 600;
+}
+
+.data-table td {
+  padding: 0.8rem 1rem;
+  border-bottom: 1px solid #e6e6e6;
+}
+
+.data-table tr:nth-child(even) {
+  background: #f8f9fa;
+}
+
+.data-table tr:hover {
+  background: #e3f2fd;
+}
+
+.data-table a {
+  color: #1e88e5;
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.data-table a:hover {
+  text-decoration: underline;
+}
+
+.admin-stats {
+  background: #111;
+  padding: 1.5rem;
+  border-radius: 8px;
+  margin-top: 2rem;
+}
+
+.admin-stats p {
+  margin: 0.5rem 0;
+  font-size: 1.1rem;
+}
+
+.admin-stats ul {
+  margin: 1rem 0;
+  padding-left: 1.5rem;
+}
+
+.admin-stats li {
+  margin: 0.3rem 0;
+  color: #ccc;
+}
+
+@media (max-width: 768px) {
+  .data-table {
+    font-size: 0.9rem;
+  }
+  
+  .data-table th,
+  .data-table td {
+    padding: 0.6rem 0.8rem;
+  }
+}

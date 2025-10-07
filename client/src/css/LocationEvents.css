@@ -1,39 +1,188 @@
 .location-events {
+    padding: 1.5rem;
+    background: #000;
+    min-height: 100vh;
+    color: #fff;
+}
+
+.location-events-topbar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 1.5rem;
+}
+
+.page-title {
+    font-size: 2rem;
+    margin: 0;
+}
+
+.btn-home {
+    background: #ffd54f;
+    color: #111;
+    padding: 0.4rem 0.7rem;
+    border-radius: 6px;
+    border: 1px solid #e6b800;
+    text-decoration: none;
+}
+
+.location-details-card {
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 8px;
+    overflow: hidden;
+    margin-bottom: 2rem;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    color: #000;
+}
+
+.location-media img,
+.location-placeholder {
     width: 100%;
+    height: 200px;
+    object-fit: cover;
+    background: #e3f2fd;
+    display: block;
+}
+
+.location-body {
+    padding: 1rem;
+}
+
+.location-body h3 {
+    margin: 0 0 0.5rem 0;
+    color: #000;
+    font-size: 1.5rem;
+}
+
+.location-desc {
+    margin: 0 0 0.5rem 0;
+    color: #000;
+    font-style: italic;
+}
+
+.location-address,
+.location-hours {
+    margin: 0 0 0.5rem 0;
+    color: #000;
+    font-size: 0.9rem;
+}
+
+.location-extra-info {
+    margin-top: 1rem;
+    padding-top: 1rem;
+    border-top: 1px solid #eee;
+}
+
+.location-extra-info p {
+    margin: 0 0 0.25rem 0;
+    color: #000;
+    font-size: 0.9rem;
+}
+
+.location-events-section h3 {
+    color: #000;
+    margin-bottom: 1rem;
+}
+
+.events-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+    gap: 1rem;
+}
+
+.event-card {
+    background: #fff;
+    border: 1px solid #e6e6e6;
+    border-radius: 8px;
+    overflow: hidden;
     display: flex;
     flex-direction: column;
-    flex-wrap: no-wrap;
+    box-shadow: 0 1px 2px rgba(0,0,0,0.05);
+    color: #000;
 }
 
-.location-events header {
-    background-color: var(--main-color);
-    display: grid;
-    grid-template-columns: 1fr 2fr;
-    column-gap: 10px;
+.event-media img,
+.event-placeholder {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    background: #f3f3f3;
+    display: block;
 }
 
-.location-image img {
-    width: 300px;
-    height: auto;
-    border: 1px solid white;
-    margin-left: 20px;
+.event-body {
+    padding: 0 1rem 1rem;
 }
 
-.location-events header p {
-    color: white;
-    font-size: 0.8em;
-    margin-bottom: 0px;
+.event-title {
+    font-size: 1rem;
+    margin: 0.25rem 0 0.25rem 0;
+    color: #000;
 }
 
-.location-events main {
+.event-meta {
+    margin: 0;
+    color: #000;
+    font-size: 0.9rem;
+}
+
+.event-sep {
+    margin: 0 0.5rem;
+}
+
+.event-location {
+  margin: 0.25rem 0 0 0;
+  font-weight: 600;
+  color: #000;
+}
+
+.event-status {
+  margin: 0.5rem 0 0 0;
+  font-size: 0.85rem;
+  font-weight: 500;
+  color: #666;
+}
+
+/* Past event styling */
+.event-past {
+  opacity: 0.7;
+  position: relative;
+}
+
+.event-past .event-title {
+  text-decoration: line-through;
+  color: #999;
+}
+
+.event-past .event-meta {
+  color: #999;
+}
+
+.event-past .event-location {
+  color: #999;
+}
+
+.event-past-overlay {
+  position: absolute;
+  top: 0.5rem;
+  right: 0.5rem;
+  background: #ff4444;
+  color: white;
+  padding: 0.25rem 0.5rem;
+  border-radius: 4px;
+  font-size: 0.75rem;
+  font-weight: bold;
+  z-index: 2;
+}
+
+.event-past .event-status {
+  color: #ff4444;
+  font-weight: 600;
+}
+
+.no-events {
+    color: #fff;
     text-align: center;
-    padding: 30px;
-    margin: 30px;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: wrap;
-}
-
-.location-events main i {
-    margin-right: 10px;
+    padding: 2rem;
 }
